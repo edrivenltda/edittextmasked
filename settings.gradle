@@ -1,0 +1,2 @@
+include ':sample', ':edittextview'
+rootProject.name='CepEditTextView'
